@@ -7,7 +7,7 @@ Any papers using this code should cite [1] accordingly.
 The software has been tested under Matlab R2015a and Microsoft Visual C++ 2010.
 
 After unpacking the file and installing the required libraries,
-start Matlab and run the following int the root directory:
+start Matlab and run the following in the root directory:
 
 >> compile_mex_files
 
